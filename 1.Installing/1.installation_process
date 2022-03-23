@@ -1,0 +1,23 @@
+# Installing and Connecting to a Linux System
+
+## Installing Virtualbox on Mac
+
+1. Visit [Virtual-Box](https://www.virtualbox.org/wiki/Downloads)
+
+    + Select `OS X hosts`, that is for your platform
+    
+2. Open the file that you just downloaded, and follow instructions
+
+3. On your mac, open search bar, and search `virtualbox`
+
+
+## Installing CentOS Linux
+
+1. Visit [CentOS](https://www.osboxes.org/centos/)
+2. Download the following installer ISO
+
+    [CentOS 8 Stream](http://isoredirect.centos.org/centos/8-stream/isos/x86_64/)
+    
+    + Search for `CentOS-Stream-8-x86_64-latest-dvd1.iso`. This CentOS is better supported now than CentOS 8.1.
+    
+
