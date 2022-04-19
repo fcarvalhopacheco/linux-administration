@@ -4,4 +4,4 @@
 
 
 1. [Installation](https://github.com/fcarvalhopacheco/linux-administration/blob/main/1.Installing/1.installation_process.md)
-
+2. [Linux-Fundamentals](https://github.com/fcarvalhopacheco/linux-administration/blob/main/2.fundamentals/1.some_fundamentals.md)
