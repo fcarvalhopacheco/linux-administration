@@ -1,0 +1,5 @@
+total 8
+drwxr-xr-x  3 fcp  staff   96 Mar 24 06:53 1.Installing
+drwxr-xr-x  3 fcp  staff   96 Apr 19 07:13 2.fundamentals
+-rw-r--r--  1 fcp  staff  321 Mar 24 06:52 README.md
+-rw-r--r--  1 fcp  staff    0 Apr 19 07:14 file.txt
